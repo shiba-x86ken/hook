@@ -1,1 +1,1 @@
-
+write関数のhook
